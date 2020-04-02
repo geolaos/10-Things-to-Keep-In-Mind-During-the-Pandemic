@@ -1,4 +1,4 @@
-# 10 Things To Keep In Mind During the Pandemic
+# Things To Keep In Mind During the Pandemic
 
 * Wash Your Hands
 * Stay Home
@@ -6,3 +6,4 @@
 * Minimize transportation
 * Work out at home
 * Keep your brain active
+* Eat healthy
